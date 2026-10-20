@@ -224,8 +224,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "你的資料庫名稱",
-      "database_id": "你的資料庫ID"
+      "database_name": "openlist-db",
+      "database_id": "a3010768-26d8-4a08-b1e0-3bf81ed500cf"
     }
   ],
   //
